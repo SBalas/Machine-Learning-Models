@@ -1,2 +1,2 @@
 # Review of various Machine Learning Models
-knn, logistic, PCA, Trees, RF, Boosting
+Knn, Regression (LASSO, Ridge), Logistic, PCA, LDA, QDA, Trees, RF, Boosting
