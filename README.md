@@ -9,4 +9,4 @@ Knn, Regression (LASSO, Ridge), Logistic, PCA, LDA, QDA, Trees, RF, Boosting
 - M5 - Random Forest - Multiple trees fit on bootstrapped samples on another data set to predict heart disease. Feature importance gives list of important predictors.
 - M5 - Boosting - Regression and classification on residuals. First principles method is used to demonstrate how the algorithm works and then skit-learn is used on another   
        dataset.
-
+- M6 - Regression (LASSO and Ridge) and cross validation - Simple function used to see how prediction various with different penalty value (lambda of LASSO). Cross validation is          used to pick the best lambda.
